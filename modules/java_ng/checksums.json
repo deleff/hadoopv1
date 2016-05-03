@@ -1,0 +1,22 @@
+{
+  "CHANGELOG": "455fafd5c3b67dcd58f5dfc90af0d48d",
+  "CONTRIBUTING.md": "8b4f5378db8a5e6f6121196f6abef9ac",
+  "CONTRIBUTORS": "8e8f81850b50ce91cd2a5f1fd2c2fcc4",
+  "Gemfile": "d42ae5025a0f5ae3e8bcf309673d28be",
+  "Guardfile": "3ae8d9a61b870350cc1c8e0d6a9a36e7",
+  "LICENSE": "f8e6bd6cd98888ebbd9a7455dd086e05",
+  "Modulefile": "347f8d432ac3ff13bd1816b0516626b9",
+  "README.markdown": "899cc01b04c9b0b5382c00c2b05b993a",
+  "Rakefile": "97fe884b0850828394982bcf5939a329",
+  "files/ppa-openjdk-r.list": "5e4a210cf8f1efa8c78ae17e0cf80d55",
+  "files/ppa-webupd8team.list": "f0a20cb4e93cc7ac28929ef6f5981fff",
+  "lib/puppet/parser/functions/java_ng_avail.rb": "2bf35b254b7a069e12f10a64e3982727",
+  "manifests/init.pp": "f56af0fa476255ff8ddd167c66408fca",
+  "manifests/install.pp": "81614faa54295597ee52da3d3c64b89f",
+  "manifests/params.pp": "3ad0a7b4243dc9b13c755e80f3d6e7e2",
+  "metadata.json": "85ba96944a2fe337d103c737344b1556",
+  "spec/classes/coverage_spec.rb": "5b6dfa0dd426aca0ccfae23c0a629f0b",
+  "spec/classes/java_ng_spec.rb": "35d58501738e8d5cdeb37fb7c13b291a",
+  "spec/functions/java_ng_avail_spec.rb": "94cc0eac00b6d0134b581a51fdc9bcd7",
+  "spec/spec_helper.rb": "63bdd65b0b23e9859f7c4f06267bcdc1"
+}

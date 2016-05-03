@@ -1,0 +1,51 @@
+{
+  "name": "cesnet-impala",
+  "version": "1.1.1",
+  "author": "Frantisek Dvorak <valtri@civ.zcu.cz>",
+  "summary": "Cloudera Impala Puppet Module",
+  "license": "MIT",
+  "source": "https://github.com/MetaCenterCloudPuppet/cesnet-impala",
+  "project_page": "https://github.com/MetaCenterCloudPuppet/cesnet-impala",
+  "issues_url": "https://github.com/MetaCenterCloudPuppet/cesnet-impala/issues",
+  "tags": [
+    "hadoop",
+    "impala"
+  ],
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "CentOS",
+      "operatingsystemrelease": [
+        "6"
+      ]
+    },
+    {
+      "operatingsystem": "Debian",
+      "operatingsystemrelease": [
+        "7"
+      ]
+    },
+    {
+      "operatingsystem": "RedHat",
+      "operatingsystemrelease": [
+        "6"
+      ]
+    },
+    {
+      "operatingsystem": "Scientific",
+      "operatingsystemrelease": [
+        "6"
+      ]
+    },
+    {
+      "operatingsystem": "Ubuntu",
+      "operatingsystemrelease": [
+        "14.04"
+      ]
+    }
+  ],
+  "description": "Cloudera Impala Puppet Module",
+  "dependencies": [
+    {"name":"puppetlabs/stdlib","version_requirement":">=1.0.0 <5.0.0"},
+    {"name":"cesnet/hadoop_lib","version_requirement":"<1.0.0"}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "CHANGELOG": "6facb09384648f589415cbc3e922daa0",
+  "Gemfile": "79f87e4a06586b83cb2e7889d50329da",
+  "Guardfile": "3ae8d9a61b870350cc1c8e0d6a9a36e7",
+  "LICENSE": "acf7cfc5e11a5d39d9fe961a3cdd7936",
+  "Modulefile": "aa3032b63079f77e022fc5b05c20a62b",
+  "README.markdown": "2366ad98e9e3d339c8874db08df58d12",
+  "Rakefile": "d476e54f020a24241913800eb09796b4",
+  "files/fedora-pig": "0b4689c02d06a8fd78b6133cf1dabc3b",
+  "manifests/config.pp": "b431b05d58f6dbf1c14163f901132ee5",
+  "manifests/init.pp": "c82d77d3b0f9532e206a4b9806a1a268",
+  "manifests/install.pp": "4f1e6a1df878685b11e65f8a626b3598",
+  "manifests/params.pp": "f8c7b10d5187d0d69a1dd0d9c0206584",
+  "metadata.json": "abb149d86c3d8827b4999e53603fc00a",
+  "spec/classes/pig_spec.rb": "6aab4336f3a4757a4f1b81f139f3a437",
+  "spec/spec_helper.rb": "0d69d8cab857bc7b7f785d4555f5118e",
+  "templates/hadoop-pig.csh.erb": "4a4a5f6f853c14a5ee1384e76466a341",
+  "templates/hadoop-pig.sh.erb": "b25c01570faa66421e2b525fe5a0f106",
+  "tests/init.pp": "d263bf314aafc24a4ec4e95df7d03d47"
+}

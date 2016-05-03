@@ -1,0 +1,27 @@
+---
+hellomsg: howdy yall
+test: 10.80.15.164
+
+hdfs_hostname1: 10.80.15.171 
+hdfs_hostname2: 10.80.15.174
+yarn_hostname1: 10.80.15.174
+yarn_hostname2: 10.80.15.171
+historyserver1: 10.80.15.172
+httpfs_hostnames: 
+slaves:
+ - 10.80.15.171
+ - 10.80.15.172
+ - 10.80.15.172
+ - 10.80.15.173
+ - 10.80.15.174
+frontends:
+ - 10.80.15.171
+quorum_hostnames: 
+  - 10.80.15.171
+  - 10.80.15.174
+hadoop_clustername: 'mycluster'
+hdfs_deployed: true
+zookeeper_deployed: true
+hivepassword: 'hivepassword'
+dbpassword: 'strongpassword'
+mysql_password: 'strongpassword'
